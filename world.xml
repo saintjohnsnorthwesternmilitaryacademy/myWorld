@@ -1,6 +1,19 @@
 <world>
-<continent name="pangea">
-</continent>
-<continent name="ralph">
-</continent>
+    <continent name="pangea">
+    </continent>
+        <country name="USA">
+        </country>
+        <country name="Russia">
+        </country>
+    <continent name="tag">
+        <country name="bob">
+        </cpuntry>
+        <country name="">
+    </continent>
+    <continent name="johns">
+    </continent>
+    <continent name="hell">
+    </continent>
+    <continent name="america">
+    </continent>
 </world>
